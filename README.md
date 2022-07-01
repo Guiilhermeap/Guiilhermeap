@@ -1,4 +1,4 @@
-### Olá, eu sou a Guilherme Aparecido !
+### Olá, eu sou o Guilherme Aparecido !
 
 - 🌱 Estudante Gestão da Tecnologia da Informação  3/6
  
