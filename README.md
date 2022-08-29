@@ -27,3 +27,5 @@
   ![Snake animation](https://github.com/Guiilhermeap/Guiilhermeap/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<a href="https://app.daily.dev/Guilhermeeap"><img src="https://api.daily.dev/devcards/04b3cacf122d4e4e9be2aa8d6cbc8fd6.png?r=vk0" width="400" alt="GUILHERME APARECIDO ROCHA's Dev Card"/></a>
