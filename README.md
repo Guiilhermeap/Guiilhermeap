@@ -1,6 +1,6 @@
 ### Olá, eu sou o Guilherme Aparecido !
 
-- 🌱 Estudante Gestão da Tecnologia da Informação  3/6
+- 🌱 Estudante - Gestão da Tecnologia da Informação  4/6
  
 <div align="batoom">
   <a href="https://github.com/Guiilhermeap">
