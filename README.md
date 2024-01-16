@@ -8,13 +8,7 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guiilhermeap&bg_color=0d1117&color=80a2ff&line=FFF&point=000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-<div align="batoom">
-  <a href="https://github.com/Guiilhermeap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guiilhermeap&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guiilhermeap&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-  
+   
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,4 +26,4 @@
   <a href="https://www.linkedin.com/in/guilherme-aparecido-63506921a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E80C1Fa4&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07016ea4&height=120&section=footer"/>
