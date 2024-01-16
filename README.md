@@ -1,6 +1,13 @@
-### Olá, eu sou o Guilherme Aparecido !
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E80C1F&height=120&section=header"/>
 
-- 🌱 Estudante - Gestão da Tecnologia da Informação  6/6
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Guilherme+Rocha;Sou+estudante+em+Gestão+da+Tecnologia+da+Informação;Sejá+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guiilhermeap&show_icons=true&count_private=true&hide_border=true&title_color=D13800a4&icon_color=FFEB00a4&text_color=FFFFE0&bg_color=0d1117" alt="cceciliaz github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiilhermeap&layout=compact&hide_border=true&title_color=D13800a4&text_color=FFFFE0a4&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guiilhermeap&bg_color=0d1117&color=ff0000&line=ffae00&point=c20000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-
  
 <div align="batoom">
   <a href="https://github.com/Guiilhermeap">
